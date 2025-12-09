@@ -1,0 +1,7 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "investment_analysis": "./investment_analysis_agent.py:investment_analysis_agent"
+  },
+  "env": ".env"
+}

@@ -1,0 +1,11 @@
+*.ipynb_checkpoints
+.DS_Store
+.env
+.venv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.langgraph_app/
+.langgraph_api/

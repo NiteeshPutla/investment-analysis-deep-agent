@@ -1,0 +1,6 @@
+deepagents
+langgraph-cli[inmem]
+tavily-python
+python-dotenv
+langchain-google-genai
+markdown-pdf
