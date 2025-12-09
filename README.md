@@ -1,4 +1,4 @@
-# Investment Analysis Agent
+# Investment Analysis Deep Agent
 
 A Deep Research Agent that autonomously gathers, analyzes, and synthesizes publicly available information about a company to generate a comprehensive investment research report.
 
@@ -30,7 +30,7 @@ The agent covers all required research dimensions:
 
 1. Navigate to the investment analysis agent directory:
 ```bash
-cd investment_analysis_agent
+cd investment-analysis-deep-agent
 ```
 
 2. Install dependencies:
